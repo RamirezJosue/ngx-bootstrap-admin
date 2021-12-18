@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+// Core
+@import 'assets/core';
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Heebo:400,700');
+
+// Widgets
+@import 'assets/widgets';
+
+// Layout Components
+@import 'assets/layout-components';
+
+// Layout Blueprints
+@import 'assets/layout-blueprints';
